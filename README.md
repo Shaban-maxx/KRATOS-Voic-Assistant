@@ -1,4 +1,4 @@
-# KRATOS-Voice-Assitant
+# KRATOS-Voice-Assistant
 🤖 KRATOS is an AI-powered voice assistant built in Python that enables real-time speech interaction, system-level automation, and intelligent responses using modern AI models.It is designed to work with instant listening (no wake word) and supports both offline commands and online AI capabilities.
 
 ✨ Features
